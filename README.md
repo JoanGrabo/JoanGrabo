@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">Software Developer </h3>
+<h1 align="center">Hola 👋, soy Joan Graboleda</h1>
+<p>📚 Actualmente estoy trabajando como Software Developer en Astech Food Machinery S.L </p>
+<p>👨🏼‍💻 Tengo conocimientos en el desarrollo Full Stack, y me especializo en el desarrollo sistemas de control industrial. </p>
 
-<!--
-**JoanGrabo/JoanGrabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Algunas tecnologías y lenguajes que he trabajado:
 
-Here are some ideas to get you started:
+⚛️ HTML & CSS | JavaScript | Bootstrap | Android | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔙 Gradle | Maven | REST API | Java | PHP | SpringBoot |
+
+💾 Firebase | MySQL | Oracle | SQLite |
+
+🧪 Automation Studio | Zelio Soft |
+
